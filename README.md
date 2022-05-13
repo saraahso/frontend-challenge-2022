@@ -1,7 +1,7 @@
 # Overview
 Hello and welcome! :smile:
 
-We would like to know more about your technical skills (---SOMETHING HERE----) but don't worry this is a simple challenge!
+We would like to know more about your technical skills but don't worry this is a simple challenge!
 
 We will review it in general about how do you code, how it was written and what choices you took to finish the project. Although we are not requiring any specific layout design, we are looking forward to see how it will look like.
 
